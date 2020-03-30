@@ -1,0 +1,21 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "leekslazylogger": "^1.1.8",
+    "ms": "^2.1.2",
+    "node-cmd": "^3.0.0",
+    "node-fetch": "^2.6.0",
+    "quick.db": "^6.3.2"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
