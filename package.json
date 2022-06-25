@@ -12,7 +12,7 @@
     "leekslazylogger": "^1.1.8",
     "ms": "^2.1.2",
     "node-cmd": "^3.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "quick.db": "^6.3.2"
   },
   "engines": {
